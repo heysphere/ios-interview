@@ -1,12 +1,12 @@
 <p align="center">
-<img src="logo.png">
+<img src="logo.webp">
 </p>
 
 
-babylon iOS interview demo project
+Sphere iOS interview demo project
 ==================================
 
-As described in the iOS recruitment process [main page](https://github.com/Babylonpartners/iOS-Interview-Demo/blob/master/README.md), we expect all candidates to submit a demo project, in one of the three formats below. **Only one of these is required**.
+As described in the iOS recruitment process [main page](README.md), we expect all candidates to submit a demo project, in one of the three formats below. **Only one of these is required**.
 
 1. [The babylon demo project](#1-the-babylon-demo-project).
 2. [A project you've already done](#2-already-written-project).
@@ -70,10 +70,10 @@ The following requirements should be met:
 
 We would be happy if you would submit a project you already have (for instance, a demo project for another company). Still, the project **must**:
 
-* Use Swift 3.0 or above.
+* Use Swift 5.0 or above.
 * Have at least two distinct network calls.
 * Parse the network response and present the information to the user.
-* Have some sort of persistence mechanism.
+* Have some sort of persistence mechanism of the fetched data, and the ability to present them offline.
 * Compile and run.
 * Have a point of synchronization (e.g. making two concurrent requests and waiting for both of them to finish).
 
@@ -85,5 +85,4 @@ Once again, please note that the requirements above are **mandatory**.
 
 We would like to see a **non-trivial** pull request you have made to a public open source project. This should be something you are proud of and where you show your technical skills. **It should also be related to iOS development** and aligned with what you will do on a day-to-day basis. 😊✨🌳
 
-#### Thanks for your time! We look forward to hearing from you!
-- The [babylon health iOS team](http://github.com/Babylonpartners)
+**Thanks for your time! We look forward to hearing from you!**

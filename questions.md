@@ -1,12 +1,12 @@
 <p align="center">
-<img src="logo.png">
+<img src="logo.webp">
 </p>
 
 
-babylon iOS interview questions
+Sphere iOS interview questions
 ==================================
 
-As described in the iOS recruitment process [main page](https://github.com/Babylonpartners/iOS-Interview-Demo/blob/master/README.md), the face-to-face technical interviews involve us asking candidates a number of technical questions which we have decided to open-source.
+As described in the iOS recruitment process [main page](README.md), the face-to-face technical interviews involve us asking candidates a number of technical questions which we have decided to open-source.
 
 Please keep in mind that this document is in a continuous state of flux, with new questions being added, and old ones tweaked or removed.
 
@@ -32,7 +32,6 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - Is immutability a good thing? Why or why not?
 - Can you briefly describe 3 design patterns used in iOS development, other than `MVC` and `Singleton`, and what situations they're best suitable for?
 - Can you describe the similarities and difference between the `Delegation` and `Observer` patterns?
-- What's good and what's bad about [this piece of code](https://github.com/Babylonpartners/iOS-Interview-Demo/blob/master/code-question.m)?
 - What do you think are the main architectural challenges associated with developing for the iPad, compared to developing for the iPhone?
 - Do you have any experience developing for the Apple Watch or tvOS? If so, what's your opinion on the differences and similarities of the various development environments in the Apple development ecosystem?
 - How do you handle state in your app(s)?
@@ -41,7 +40,7 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - Are you familiar with `Reactive Programming`?
 - What's the basic design pattern behind `Reactive Programming`?
 - How would you explain reactive programming to a junior developer who knows nothing about it?
-- Why not using Future/Promises/Async-await instead of ReactiveSwift/RxSwift?
+- Why not using Future/Promises/Async-await instead of ReactiveSwift/RxSwift/Combine?
 - What is functional programming? Explain it to a junior.
 - Showcase examples of FP usage with clear benefits to a junior.
 - Can a FP-oriented codebase be difficult to understand? Why?
@@ -134,5 +133,4 @@ Please keep in mind that this document is in a continuous state of flux, with ne
 - Knowledge about data structures: graphs, trees, queues, stacks, linked lists, hashtables and others. 
 - Knowledge about algorithms: sorting, searching and others. 
 
-#### Thanks for your time! We look forward to hearing from you!
-- The [babylon health iOS team](http://github.com/Babylonpartners)
+**Thanks for your time! We look forward to hearing from you!***
