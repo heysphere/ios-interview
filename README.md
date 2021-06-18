@@ -14,14 +14,11 @@ We also aim to be as flexible as possible by equally accepting quality applicati
 
 We value **potential** equally as much as **knowledge** and **experience**. We value one's ability to think independently and to engage constructively, and are fun to work with. After all, we will be spending lots of time together in work days.
 
-These are the main areas the iOS team will focus our assessment of candidates on:
+These are the areas which we are interested in assessing candidates on:
 
 - Technical expertise
   - The Swift programming language
-  - Architectural design patterns (MVVM, Swift TCA, unidirectional data flow, etc)
-  - Knowledge of declarative UI programming, e.g., Apple SwiftUI
-  - Knowledge of Apple platform APIs, in particular UIKit for iOS and macOS
-  - Knowledge of reactive programming (RxSwift, ReactiveSwift, Combine, etc)
+  - Knowledge of Apple platform APIs, and architectural design patterns
   - Knowledge of the development cycle
   - Interview demo project
 - Interest in sharing one's knowledge, learning new knowledge, and keeping oneself up to date
@@ -31,6 +28,13 @@ These are the main areas the iOS team will focus our assessment of candidates on
 - Overall attitude
 - Likelihood of fitting in well with the company's culture
 - Is the candidate someone we would like to work with on a daily basis?
+
+For transparency, we use these architectural patterns and technologies in production. We hope you would be interested in learning these, though candidates are neither required to have knowledge in these areas, nor to have to demonstrate them in your project.
+
+- Unidirectional data flows (e.g. Swift TCA)
+- Declarative UI programming with Apple SwiftUI
+- Functional reactive programming (e.g., RxSwift, ReactiveSwift, Combine)
+- Kotlin Multiplatform
 
 ### The iOS recruitment process
 
