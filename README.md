@@ -29,7 +29,7 @@ These are the areas which we are interested in assessing candidates on:
 - Likelihood of fitting in well with the company's culture
 - Is the candidate someone we would like to work with on a daily basis?
 
-For transparency, we use these architectural patterns and technologies in production. We hope you would be interested in learning these, though candidates are neither required to have knowledge in these areas, nor to have to demonstrate them in your project.
+For transparency, we use these architectural patterns and technologies in production. We hope you would be interested in learning these, though candidates are not required to demonstrate knowledge in these areas.
 
 - Unidirectional data flows (e.g. Swift TCA)
 - Declarative UI programming with Apple SwiftUI
