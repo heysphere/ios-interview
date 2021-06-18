@@ -6,17 +6,15 @@
 Sphere iOS interview demo project
 ==================================
 
-As described in the iOS recruitment process [main page](README.md), we expect all candidates to submit a demo project, in one of the three formats below. **Only one of these is required**.
+As described in the iOS recruitment process [main page](README.md), we expect all candidates to submit a demo project, in one of the three formats below. **Choose one of three options**.
 
-1. [The babylon demo project](#1-the-babylon-demo-project).
+1. The ["interview demo project"](demo.md);
 2. [A project you've already done](#2-already-written-project).
 3. [An open source project you've done or contributed to](#3-open-source-work).
 
-**IMPORTANT**: Please note that if you're a candidate interested in working remotely, your demo project **must** use a reactive programming library.
-
 **IMPORTANT**: Please submit your interview demo project as a `.zip`ed archive.
 
-Before proceeding to the section of your choice, please consider the following tips.
+Before proceeding to work on your chosen path, please consider the following tips.
 
 ### General Advice and Tips
 
@@ -32,7 +30,7 @@ Before proceeding to the section of your choice, please consider the following t
 * Be opinionated regarding any architecture you use and take your time to make it a reflection of your thought process.
 * We don't have a submission deadline so take your time to polish your project.
 
-### 1. The babylon demo project
+### 1. The interview demo project
 
 From a high level point of view the demo consists of a list of posts, where each post has its own detail.
 
@@ -61,7 +59,7 @@ You can retrieve the remaining information from these API:
 
 The following requirements should be met:
 
-* Use Swift 3.0 or above.
+* Use Swift 5.0 or above.
 * The information (posts and post details) should be available offline. It's assumed that, if it's the first time you are accessing the app and you are offline, you shouldn't see any data.
 * The code should be production grade.
 * It should compile and run.
